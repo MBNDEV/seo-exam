@@ -1,6 +1,6 @@
 # seo-exam
 
-- Setup a WordPress project on your local
+- [Setup](https://wordpress.org/download/) a WordPress project on your local
 - Use any local server of your choice
 - Once the WordPress project is installed, Download and install the WPvivid plugin
 - Active the WPvivid plugin
