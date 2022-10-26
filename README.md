@@ -1,6 +1,7 @@
 # seo-exam
 
 - Clone and install this project on your local
+- Import the included database
 - Take a screenshot of the scores of the initial lighthouse report
 - If needed, you may log in to the /wp-admin as an Administrator using the below credentials:
   - username: kimsantiago
